@@ -168,8 +168,6 @@ select
 	) as primary_w_cross_sell
     group by 1;
     
-    /*
-    8.show innvestors we still have plenty of gas in the tank. Based on all analysis I've done,
-    share some recommendations and opportunities for us going forward?
+
     
     
